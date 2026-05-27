@@ -9,7 +9,7 @@ This project analyzes professional Apex Legends EWC Finals data to evaluate play
 - openpyxl
 
 --------------------------------------------------
-INSTALLATION
+Installation
 --------------------------------------------------
 
 1. Open terminal in project folder
@@ -19,17 +19,14 @@ INSTALLATION
 pip install -r requirements.txt
 
 --------------------------------------------------
-RUN THE PROJECT
+Run The Project
 --------------------------------------------------
 
 python analyzer.py
 
 --------------------------------------------------
-OUTPUTS
+Outputs
 --------------------------------------------------
-
-The project generates:
-
 - Cleaned datasets
 - Statistical summaries
 - Excel reports
