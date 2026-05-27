@@ -2,6 +2,40 @@
 
 This project analyzes professional Apex Legends EWC Finals data to evaluate player performance.
 
+## Requirements
+
+- Python 3.10+
+- pandas
+- openpyxl
+
+--------------------------------------------------
+INSTALLATION
+--------------------------------------------------
+
+1. Open terminal in project folder
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+--------------------------------------------------
+RUN THE PROJECT
+--------------------------------------------------
+
+python analyzer.py
+
+--------------------------------------------------
+OUTPUTS
+--------------------------------------------------
+
+The project generates:
+
+- Cleaned datasets
+- Statistical summaries
+- Excel reports
+- Performance trend analysis
+
+
 ## Goals
 - Measure player consistency
 - Identify clutch performers
